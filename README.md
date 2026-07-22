@@ -47,24 +47,24 @@ Passionate about turning data into actionable insights through analytics, visual
 </p>
 
 
-## 🤝 Connect with Me
+## 📫 Contact Me
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/adham-attia-7b885335b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.facebook.com/share/1DJ2tB21ge/">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 <a href="https://wa.me/201149413250">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <a href="mailto:adhamtyh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Send-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
