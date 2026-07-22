@@ -45,26 +45,26 @@ Passionate about turning data into actionable insights through analytics, visual
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
+
+
 ## 🤝 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/adham-attia-7b885335b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
 
-  <a href="mailto:adhamtyh3232@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/adham-attia-7b885335b">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-  <a href="https://wa.me/201149413250" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
+<a href="https://www.facebook.com/share/1DJ2tB21ge/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-  <a href="https://www.facebook.com/share/1DJ2tB21ge/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+<a href="https://wa.me/201149413250">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 
-  <a href="https://github.com/Adham2tia" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="mailto:adhamtyh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 </p>
