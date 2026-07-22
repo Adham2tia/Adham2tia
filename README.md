@@ -24,8 +24,8 @@ Passionate about turning data into actionable insights through analytics, visual
 ### 📊 Data Analytics & BI
 <p>
   <img src="https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-111827?style=flat-square&logo=microsoftexcel&logoColor=217346"/>
-  <img src="https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-111827?style=flat-square&logo=microsoft-excel&logoColor=217346"/>
+  <img src="https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoft-sql-server&logoColor=CC2927"/>
   <img src="https://img.shields.io/badge/Tableau-111827?style=flat-square&logo=tableau&logoColor=E97627"/>
   <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=150458"/>
   <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=013243"/>
@@ -41,7 +41,7 @@ Passionate about turning data into actionable insights through analytics, visual
 <p>
   <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-111827?style=flat-square&logo=visual-studio-code&logoColor=007ACC"/>
 </p>
 
 ---
