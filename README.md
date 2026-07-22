@@ -16,55 +16,49 @@ Passionate about turning data into actionable insights through analytics, visual
 - 🐍 Currently improving my **Python** skills for data analysis and automation.
 - 💻 Strong foundation in **C++**, **Object-Oriented Programming (OOP)**, and **Data Structures**.
 - 🚀 Building real-world analytics projects to strengthen my portfolio and practical experience.
-## 🛠️ Tech Stack
 
-### 📊 Data Analytics
+---
 
+## 🛠️ Skills & Tools
+
+### 📊 Data Analytics & BI
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-111827?style=flat-square&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-111827?style=flat-square&logo=microsoftexcel&logoColor=217346"/>
+  <img src="https://img.shields.io/badge/SQL_Server-111827?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/>
+  <img src="https://img.shields.io/badge/Tableau-111827?style=flat-square&logo=tableau&logoColor=E97627"/>
+  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=013243"/>
 </p>
 
+### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=00599C"/>
 </p>
 
-### 💻 Programming
-
+### ⚙️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python"/>
+  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
 </p>
 
-### ⚙️ Tools
+---
+
+## 📫 Connect with Me
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
-
-## 📫 Contact Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/adham-attia-7b885335b">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.facebook.com/share/1DJ2tB21ge/">
-  <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-<a href="https://wa.me/201149413250">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<a href="mailto:adhamtyh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Send-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/adham-attia-7b885335b">
+    <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://www.facebook.com/share/1DJ2tB21ge/">
+    <img src="https://img.shields.io/badge/Facebook-111827?style=flat-square&logo=facebook&logoColor=1877F2"/>
+  </a>
+  <a href="https://wa.me/201149413250">
+    <img src="https://img.shields.io/badge/WhatsApp-111827?style=flat-square&logo=whatsapp&logoColor=25D366"/>
+  </a>
+  <a href="mailto:adhamtyh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335"/>
+  </a>
 </p>
